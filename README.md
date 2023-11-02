@@ -1,0 +1,2 @@
+# bsTest
+Spring Boot tests
